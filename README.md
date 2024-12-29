@@ -50,7 +50,7 @@ Welcome to the React Admin Dashboard project! This application is built using Re
 
 - npm start
 
-Your app should be running at http://localhost:3000.
+Your app should be running at http://localhost:5173.
 
 #### What I Did
 
